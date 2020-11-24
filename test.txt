@@ -9,3 +9,5 @@ por el momento se {
   - comparar commits
   - volver en el tiempo
 }
+
+Esto esta escrito desde vim
