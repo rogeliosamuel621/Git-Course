@@ -1,13 +1,3 @@
-Soy Rogelio Samuel Moreno Corrales
+Esta es mi historia, principio de git :)
 
-Se un poco mas de lo basico en git (pasado)
-
-pero ahora lo aprendere a profundidad y lo dominare
-
-por el momento se {
-
-  - comparar commits
-  - volver en el tiempo
-}
-
-Esto esta escrito desde vim
+estoy probando el git checkout
