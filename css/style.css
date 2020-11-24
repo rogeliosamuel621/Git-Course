@@ -5,3 +5,9 @@ body {
 main {
   border: 1px solid black;
 }
+.Cabecera {
+  background-color: rgb(44, 41, 41);
+  color: white;
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
