@@ -1,1 +1,11 @@
-Vale, volvemos en el tiempo.
+Soy Rogelio Samuel Moreno Corrales
+
+Se un poco mas de lo basico en git
+
+pero ahora lo aprendere a profundidad y lo dominare
+
+por el momento se {
+
+  - comparar commits
+  - volver en el tiempo
+}
