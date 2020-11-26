@@ -20,4 +20,6 @@ Estoy mas agusto ahora con git.
 
 Es momento de trabajar con otras personas.
 
-master 2
+escribiendo desd experimento
+
+exp 2
